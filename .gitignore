@@ -13,3 +13,6 @@ Thumbs.db
 *~
 .vscode/
 .idea/
+
+# Generator scripts (system-specific)
+gen_*.py
