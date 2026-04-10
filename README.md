@@ -35,7 +35,7 @@ SBTI 的爆火堪称中文互联网 2026 年最魔幻的事件之一。一个为
 | B站原视频播放量 | 667,417+ |
 | B站点赞 / 投币 / 收藏 / 转发 | 33,465 / 12,657 / 8,906 / 21,554 |
 | 微博热搜话题 | #SBTI测试#、#sbti测试网站崩了# |
-| GitHub 镜像站数量 | 10+ |
+| 镜像站数量 | 16+（含英文版） |
 | 人格类型总数 | 26 种（含 1 个隐藏 + 1 个兜底） |
 | 测试题目数 | 30 题 + 2 道饮酒彩蛋 |
 | 测试维度数 | 15 维度 × 5 大模型 |
@@ -54,6 +54,40 @@ SBTI 爆火的速度之快，连 Web3 玩家都坐不住了。测试刷屏当天
 | 同期 | 竞品 $MBTI 出现 | BSC 链 `0x8c6e...4444`，被称为"币安亲儿子" |
 
 > **注意**：Meme 币风险极高，以上信息仅记录事件，不构成任何投资建议。DYOR。
+
+### 镜像站合集
+
+原站崩溃后，开发者社区在数小时内搭建了大量镜像站。以下为已知镜像（按影响力排序）：
+
+| 镜像站 | 维护者 | 来源 / 备注 |
+|:---|:---|:---|
+| [sbti.unun.dev](https://sbti.unun.dev) | UnluckyNinja | 主要开源镜像，[GitHub 仓库](https://github.com/UnluckyNinja/SBTI-test)（70+ stars） |
+| [sbti.dev](https://sbti.dev) | — | 独立域名镜像 |
+| [sbti.jerryz.com.cn](https://sbti.jerryz.com.cn) | JerryZ | 精装镜像，带 SEO 优化 |
+| [sbti.fancc.de5.net](https://sbti.fancc.de5.net) | FANCC | 社区高频引用 |
+| [sbti.meme](https://sbti.meme) | — | V2EX 社区提及 |
+| [sbti.asia](https://sbti.asia) | — | LINUX DO 社区提及 |
+| [sbti.love](https://sbti.love) | — | LINUX DO 社区提及 |
+| [sbti.ctikki.com](https://sbti.ctikki.com) | CTctikki | GitHub Fork 部署 |
+| [sbti.kaiz.club](https://sbti.kaiz.club) | kaiz2001 | GitHub Fork 部署 |
+| [sbti.fengfengjishu.top](https://sbti.fengfengjishu.top) | — | 小红书传播 |
+| [nanobanana.org/sbti](https://nanobanana.org/sbti) | — | 英文版镜像 |
+| [nano-banana.com/sbti](https://www.nano-banana.com/sbti) | — | 英文版镜像 |
+| [sbti-test-one.vercel.app](https://sbti-test-one.vercel.app) | zeppcmd | Vercel 部署 |
+| [sbti-test-mirror.vercel.app](https://sbti-test-mirror.vercel.app) | oboard | Vercel 部署 |
+| [sbti-dog.vercel.app](https://sbti-dog.vercel.app) | FOURCLAWe | Vercel 部署 |
+| [sbti-personality-test.vercel.app](https://sbti-personality-test.vercel.app) | PrimeSite-K | Vercel 部署 |
+
+**衍生项目**：
+
+| 项目 | 链接 | 说明 |
+|:---|:---|:---|
+| XBTI（改版） | [xbti.lovstudio.ai](https://xbti.lovstudio.ai) | 基于 SBTI 的衍生版本 |
+| sbti-cli | [GitHub](https://github.com/bingran-you/sbti-cli) | 命令行版本 |
+| sbti-test-docker | [GitHub](https://github.com/yilinyo/sbti-test-docker) | Docker 容器化版本 |
+| sbti.how | [sbti.how/types](https://sbti.how/types/) | 人格类型百科（非测试，仅查阅） |
+
+> 测试全部在前端 JS 计算，无后端依赖——这也是镜像站能在几小时内遍地开花的原因。
 
 ---
 
